@@ -1,6 +1,6 @@
 # My first experience with creating a class and methods.
 
-# This is a simple class with methods which performs basic mathematical operations
+# This is a simple class with methods which perform basic mathematical operations
 class my_first_class():
     def __init__(self, num1, num2):
         self.num1 = num1
